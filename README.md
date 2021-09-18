@@ -87,11 +87,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![product-screenshot]("./budget-tracker-screenshot.png")
+![budget-tracker-screenshot](/budget-tracker-screenshot.png)
 
-*** Here's a blank template to get started:
-***To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-*** `tbegush`, `Budget-Tracker`, `@tbegush`, `tbegush@gmail.com`, `Budget-Tracker`, `A search for github repositories!`
+
 
 
 ### Built With
